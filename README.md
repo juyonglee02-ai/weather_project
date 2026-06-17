@@ -34,3 +34,13 @@ Visualization: React 대시보드에서 실시간 데이터 및 AI 챗봇 인터
 AI 모델 연동: 외부 유료 API가 아닌 LM Studio를 이용한 로컬 LLM 연동을 통해 데이터 보안과 비용 효율성을 챙겼다는 점이 큰 장점입니다.
 
 데이터 융합: 내 집 안의 센서 데이터와 기상청의 공공 데이터를 비교 분석하는 로직(Data Cross-Validation)을 언급하면 프로젝트의 완성도가 높아 보입니다.
+
+✔ 실시간 센서 데이터 수집 성공
+✔ PostgreSQL 저장 성공
+✔ 기상청 API 연동 성공
+✔ 에어코리아 API 연동 성공
+✔ Spring Boot REST API 구축 성공
+✔ React Dashboard 구현 성공
+✔ AI 예측 모델 구현 성공
+✔ LM Studio 기반 챗봇 구현 성공
+✔ Raspberry Pi 5 Linux 서버 구축 성공
