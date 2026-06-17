@@ -3,7 +3,7 @@
 본 프로젝트는 에지 컴퓨팅(ESP32)과 클라우드 서버(RPi 5 + Spring Boot)를 결합하여 실시간 환경 모니터링 및 AI(LLM) 분석 서비스를 제공하는 통합 IoT 시스템입니다.
 
 2. 기술 스택 (Tech Stack)
-Hardware: ESP32 NodeMCU, PMS7003(미세먼지), DHT11/22(온습도)
+Hardware: ESP32 NodeMCU, AM 2302(온습도) ,GP2Y1014(미세먼지),
 
 Infrastructure: Raspberry Pi 5 (Linux), PostgreSQL
 
